@@ -14,8 +14,10 @@ There are two modes of operation. The dip switches can be used to drive a single
 
 ## How to test
 
-Explain how to use your project
+press the clock button and read the seven segment display
+It should cycle through:
+JONANDANgIE
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven segment display
