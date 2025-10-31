@@ -9,7 +9,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+There are two modes of operation. The dip switches can be used to drive a single letter state. OR you can use the button as a clock to cycle through the letters in order.
+
 
 ## How to test
 
