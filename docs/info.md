@@ -9,15 +9,20 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-There are two modes of operation. The dip switches can be used to drive a single letter state. OR you can use the button as a clock to cycle through the letters in order.
+I set this up to celebrate the covenant of marriage I entered into with Angie 26 years ago. To do this I set up a mux rom with 32 data points (and then used just 24.)
 
+to the love of my life, 
+I have forged covenant 
+into yet another precious substrate
+It is everything and nothing
+symbolic of the real thing
+This has so far been the best half of my life.
 
 ## How to test
 
-press the clock button and read the seven segment display
-It should cycle through:
-JONANDANgIE
+Press the button to click through the following:
+JON ANd ANGIE 08-28-1999
 
 ## External hardware
 
-Seven segment display
+Button, Seven segment display
